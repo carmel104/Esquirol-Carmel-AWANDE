@@ -6,8 +6,9 @@
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
 
-📍 Basé en France
+📍 Basé à Angers, France
 📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)
+📞 Téléphone : +33 06 05 64 02 88
 🔗 LinkedIn : [https://www.linkedin.com/in/carmel-awande-44b83626b/](https://www.linkedin.com/in/carmel-awande-44b83626b/)
 
 ---
@@ -16,10 +17,9 @@ Je possède un parcours solide en statistique appliquée ainsi qu’une expérie
 
 Je suis titulaire :
 
-* actuellement en **Master 1 Data Science** à la faculté des Sciences de l’Université d’Angers
+* actuellement en **Master 1 Data Science** à l’Université d’Angers
 * d’un **Master of Science en Statistique** de l’ICMPA-UNESCO Chair (Bénin)
 * d’une **Licence en Statistique** de l’ENEAM
-
 
 Je recherche une **alternance Data Scientist / Data Analyst à partir de septembre 2026**.
 
@@ -231,7 +231,6 @@ R • Python
 * Suivi d’indicateurs de performance
 
 ---
-
 
 # 🎯 Objectif Professionnel
 
