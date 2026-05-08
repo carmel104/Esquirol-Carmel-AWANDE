@@ -232,13 +232,6 @@ R • Python
 
 ---
 
-# 📚 Certifications
-
-* Suivi-évaluation de projet de développement — AFD
-* MEAL (Monitoring, Evaluation, Accountability & Learning)
-* Science et analyse des données
-
----
 
 # 🎯 Objectif Professionnel
 
