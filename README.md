@@ -202,7 +202,7 @@ Power BI • Excel • SQL
 
 ---
 
-## 📈 Analyse de valeurs extrêmes
+## 📈 Analyse de valeurs extrêmes (Projet de rechercher master 1 data science)
 
 📌 Étude statistique des événements rares et extrêmes.
 
