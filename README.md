@@ -23,9 +23,9 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 Je suis titulaire :
 
-* actuellement en **Master 1 Data Science** à l’Université d’Angers
-* d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair (Bénin)
-* d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Managment (Bénin)
+* actuellement en **Master 1 Data Science** à l’Université d’Angers; Angers
+* d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
+* d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Managment, Bénin
 
 Je recherche une **alternance Data Scientist / Data Analyst à partir de septembre 2026**.
 
