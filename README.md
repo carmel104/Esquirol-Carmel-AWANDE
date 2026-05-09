@@ -2,9 +2,15 @@
 
 ## 🚀 Data Scientist / Data Analyst / Statisticien
 
-🎓 Étudiant en Master 1 Data Science à l’Université d’Angers, passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
+🎓 Actuellement étudiant en Master 1 Data Science à l’Université d’Angers, passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
+
+# 🎯 Objectif Professionnel
+
+Construire des solutions data intelligentes permettant d’aider à la prise de décision grâce à l’analyse de données, la statistique et l’intelligence artificielle.
+---
+
 
 📍 Basé à Angers, France
 📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)
@@ -34,40 +40,54 @@ Mes domaines d’intérêt :
 * Data Engineering
 * MLOps
 
+
+# 💼 Expériences Professionnelles
+
+## 🚚 SafeRoad Transport (Bénin) — Chargé d’études statistiques / Analyste de données
+
+📅 Mars 2025 – Juillet 2025
+
+* Conception de dashboards KPI
+* Gestion de bases de données
+* Analyses statistiques pour l’aide à la décision
+
 ---
 
-# 🛠️ Compétences Techniques
+## 📋 Cabinet d’Expertise Statistique Informatique et Epidémiologique (Bénin) — Agent de collecte de données
 
-## Langages
+📅 Avril 2024
 
-* Python
-* R
-* SQL
+* Participation à l’élaboration de questionnaires
+* Collecte de données sur le terrain
+* Étude sur la prescription rationnelle de médicaments
 
-## Data Science & Machine Learning
+---
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* TensorFlow
-* Keras
-* SciPy
+## 📊 Association Professionnelle Accompagements Valeurs Expertises et Conseils (Bénin) — Chargé d’études statistiques
 
-## Data Visualisation
+📅 Juillet 2022 – Août 2024
 
-* Power BI
-* Matplotlib
-* Seaborn
-* ggplot2
+* Collecte et traitement des données
+* Analyses statistiques
+* Suivi d’indicateurs de performance
 
-## Développement & Outils
+---
 
-* Git & GitHub
-* Docker
-* PostgreSQL
-* VS Code
-* Django
-* Streamlit
+
+🛠️ COMPETENCES INFORMATIQUES
+
+• Outils informatiques : Python, R, SQL, PostgreSQL
+• Outils de développement : Git, Docker, Visual Studio Code
+• Framework web : Django
+• Libraries : Pandas, NumPy, Scikit-Learn, Keras, Scipy, TensorFlow, Streamlit
+• Data visualisation : Power BI Desktop, GGplot2, Matplotlib, Seaborn, graphiques Excel
+• Pack Office : Word, Excel, PowerPoint, Access
+
+---
+
+🧠 Compétences techniques
+
+Data preprocessing, feature engineering, analyse exploratoire de données, machine Learning, économétrie, scoring, modélisation statistique, évaluation de modèles, data storytelling
 
 ---
 
@@ -188,7 +208,7 @@ Power BI • Excel • SQL
 
 ### Technologies
 
-R • Python
+R Studio
 
 ### Concepts étudiés
 
@@ -200,43 +220,6 @@ R • Python
 
 ---
 
-# 💼 Expériences Professionnelles
-
-## 🚚 SafeRoad Transport — Chargé d’études statistiques / Analyste de données
-
-📅 Mars 2025 – Juillet 2025
-
-* Conception de dashboards KPI
-* Gestion de bases de données
-* Analyses statistiques pour l’aide à la décision
-
----
-
-## 📋 CESIE — Agent de collecte de données
-
-📅 Avril 2024
-
-* Participation à l’élaboration de questionnaires
-* Collecte de données sur le terrain
-* Étude sur la prescription rationnelle de médicaments
-
----
-
-## 📊 APAVEC — Chargé d’études statistiques
-
-📅 Juillet 2022 – Août 2024
-
-* Collecte et traitement des données
-* Analyses statistiques
-* Suivi d’indicateurs de performance
-
----
-
-# 🎯 Objectif Professionnel
-
-Construire des solutions Data robustes et utiles pour accompagner la prise de décision à travers la statistique, l’intelligence artificielle et l’analyse de données.
-
----
 
 # 📫 Me contacter
 
