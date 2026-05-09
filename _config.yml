@@ -1,7 +1,6 @@
 title: "Esquirol Carmel AWANDE"
-logo: /img/profile.jpeg
+logo: /img/image.png
+description: "Portfolio Data Scientist/ Data Analyst"
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 lang: fr
-plugins:
-  - jekyll-include-cache
