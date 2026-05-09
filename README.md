@@ -76,12 +76,12 @@ Mes domaines d’intérêt :
 
 🛠️ COMPETENCES INFORMATIQUES
 
-• Outils informatiques : Python, R, SQL, PostgreSQL
-• Outils de développement : Git, Docker, Visual Studio Code
-• Framework web : Django
-• Libraries : Pandas, NumPy, Scikit-Learn, Keras, Scipy, TensorFlow, Streamlit
-• Data visualisation : Power BI Desktop, GGplot2, Matplotlib, Seaborn, graphiques Excel
-• Pack Office : Word, Excel, PowerPoint, Access
+* Outils informatiques : Python, R, SQL, PostgreSQL
+* Outils de développement : Git, Docker, Visual Studio Code
+* Framework web : Django
+* Libraries : Pandas, NumPy, Scikit-Learn, Keras, Scipy, TensorFlow, Streamlit
+* Data visualisation : Power BI Desktop, GGplot2, Matplotlib, Seaborn, graphiques Excel
+* Pack Office : Word, Excel, PowerPoint, Access
 
 ---
 
