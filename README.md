@@ -9,12 +9,12 @@ Je possède un parcours solide en statistique appliquée ainsi qu’une expérie
 # 🎯 Objectif Professionnel
 
 Construire des solutions data intelligentes permettant d’aider à la prise de décision grâce à l’analyse de données, la statistique et l’intelligence artificielle.
+
 ---
 
-
-📍 Basé à Angers, France
-📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)
-📞 Téléphone : +33 06 05 64 02 88
+📍 Basé à Angers, France  
+📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
+📞 Téléphone : +33 06 05 64 02 88  
 🔗 LinkedIn : [https://www.linkedin.com/in/carmel-awande-44b83626b/](https://www.linkedin.com/in/carmel-awande-44b83626b/)
 
 ---
@@ -40,6 +40,7 @@ Mes domaines d’intérêt :
 * Data Engineering
 * MLOps
 
+---
 
 # 💼 Expériences Professionnelles
 
@@ -73,8 +74,7 @@ Mes domaines d’intérêt :
 
 ---
 
-
-🛠️ COMPETENCES INFORMATIQUES
+# 🛠️ COMPETENCES INFORMATIQUES
 
 * Outils informatiques : Python, R, SQL, PostgreSQL
 * Outils de développement : Git, Docker, Visual Studio Code
@@ -85,7 +85,7 @@ Mes domaines d’intérêt :
 
 ---
 
-🧠 Compétences techniques
+# 🧠 Compétences techniques
 
 Data preprocessing, feature engineering, analyse exploratoire de données, machine Learning, économétrie, scoring, modélisation statistique, évaluation de modèles, data storytelling
 
@@ -220,10 +220,9 @@ R Studio
 
 ---
 
-
 # 📫 Me contacter
 
-📧 Email : [cawande29@gmail.com](mailto:cawande29@gmail.com)
+📧 Email : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
 🔗 LinkedIn : [https://www.linkedin.com/in/carmel-awande-44b83626b/](https://www.linkedin.com/in/carmel-awande-44b83626b/)
 
 ---
