@@ -1,5 +1,7 @@
 title: "Esquirol Carmel AWANDE"
 logo: /img/profile.jpeg
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 lang: fr
+plugins:
+  - jekyll-include-cache
