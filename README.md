@@ -137,7 +137,7 @@ R • ggplot2 • Regression Models
 * Comparer les performances des modèles
 * Réduire la multicolinéarité
 
-🔗 Projet GitHub : [Veuillez cliquer ici pour plus de détails](https://github.com/carmel104/Analyse-des-D-terminants-du-Prix-Immobilier-approche-par-PCR-et-PLS.git)
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/Analyse-des-D-terminants-du-Prix-Immobilier-approche-par-PCR-et-PLS.git)
 
 ---
 
@@ -160,7 +160,7 @@ Python • R • TensorFlow • Keras
 * Étudier les performances prédictives
 * Analyse des tendances temporelles
 
-🔗 Projet GitHub : [Prévision de production d’électricité (ARIMA & LSTM)](https://github.com/carmel104/-Pr-vision-de-production-d-lectricit-ARIMA-LSTM-.git)
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/-Pr-vision-de-production-d-lectricit-ARIMA-LSTM-.git)
 
 
 ---
@@ -199,9 +199,24 @@ R Studio
 * Estimation des risques
 * Analyse statistique avancée
 
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
+🔗 Projet GitHub : [Ajouter votre lien ici]()
 
 ---
+
+## 📈 Projet de structurations de données:  Enron Discovery – Plateforme d'investigation e-Discovery
+## 📋 Contexte du projet
+
+Ce projet vise à concevoir un **outil d'aide à l'investigation numérique** à partir du Enron Corpus, un jeu de données contenant plus de **500 000 emails** issus d'une entreprise réelle après un scandale financier majeur.
+
+**Objectifs :**
+* Naviguer dans les échanges
+* Identifier des acteurs clés
+* Rechercher des informations critiques
+* Reconstruire des fils de discussion
+
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/yvesgnonhoue/enron-discovery.git)
+
+
 
 # 📫 Me contacter
 
