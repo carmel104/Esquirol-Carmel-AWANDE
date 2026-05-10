@@ -93,30 +93,6 @@ Data preprocessing, feature engineering, analyse exploratoire de données, machi
 
 # 📂 Projets
 
-## 🔍 Détection de fraudes bancaires
-
-📌 Développement de plusieurs modèles de Machine Learning pour la détection de transactions frauduleuses.
-
-### Technologies
-
-Python • Scikit-Learn • Pandas • Matplotlib
-
-### Modèles utilisés
-
-* Régression Logistique
-* Random Forest
-* Arbre de Décision
-
-### Résultats
-
-* Évaluation via AUC, précision, recall et matrice de confusion
-* Comparaison des performances des modèles
-* Analyse du déséquilibre de classes
-
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
-
----
-
 ## 🏠 Analyse des prix des maisons
 
 📌 Analyse des Déterminants du Prix Immobilier: approche par PCR et PLS
@@ -162,8 +138,50 @@ Python • R • TensorFlow • Keras
 
 🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/-Pr-vision-de-production-d-lectricit-ARIMA-LSTM-.git)
 
+---
+
+## 📈 Projet de structurations de données:  Enron Discovery – Plateforme d'investigation e-Discovery
+## 📋 Contexte du projet
+
+Ce projet vise à concevoir un **outil d'aide à l'investigation numérique** à partir du Enron Corpus, un jeu de données contenant plus de **500 000 emails** issus d'une entreprise réelle après un scandale financier majeur.
+
+**Objectifs :**
+* Naviguer dans les échanges
+* Identifier des acteurs clés
+* Rechercher des informations critiques
+* Reconstruire des fils de discussion
+
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/yvesgnonhoue/enron-discovery.git)
+
+
+
 
 ---
+
+## 🔍 Détection de fraudes bancaires
+
+📌 Développement de plusieurs modèles de Machine Learning pour la détection de transactions frauduleuses.
+
+### Technologies
+
+Python • Scikit-Learn • Pandas • Matplotlib
+
+### Modèles utilisés
+
+* Régression Logistique
+* Random Forest
+* Arbre de Décision
+
+### Résultats
+
+* Évaluation via AUC, précision, recall et matrice de confusion
+* Comparaison des performances des modèles
+* Analyse du déséquilibre de classes
+
+🔗 Projet GitHub : [Ajouter votre lien ici](#)
+
+---
+
 
 ## 🌊 Deep Sea Adventure — Programmation Orientée Objet
 
@@ -200,22 +218,6 @@ R Studio
 * Analyse statistique avancée
 
 🔗 Projet GitHub : [Ajouter votre lien ici]()
-
----
-
-## 📈 Projet de structurations de données:  Enron Discovery – Plateforme d'investigation e-Discovery
-## 📋 Contexte du projet
-
-Ce projet vise à concevoir un **outil d'aide à l'investigation numérique** à partir du Enron Corpus, un jeu de données contenant plus de **500 000 emails** issus d'une entreprise réelle après un scandale financier majeur.
-
-**Objectifs :**
-* Naviguer dans les échanges
-* Identifier des acteurs clés
-* Rechercher des informations critiques
-* Reconstruire des fils de discussion
-
-🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/yvesgnonhoue/enron-discovery.git)
-
 
 
 # 📫 Me contacter
