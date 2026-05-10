@@ -160,7 +160,8 @@ Python • R • TensorFlow • Keras
 * Étudier les performances prédictives
 * Analyse des tendances temporelles
 
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
+🔗 Projet GitHub : [Voir le projet](https://github.com/carmel104/-Pr-vision-de-production-d-lectricit-ARIMA-LSTM-.git)
+
 
 ---
 
