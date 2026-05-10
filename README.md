@@ -21,11 +21,11 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 # 🧠 À propos de moi
 
-Je suis titulaire :
+Je suis:
 
 * actuellement en **Master 1 Data Science** à l’Université d’Angers; Angers
-* d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
-* d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin
+* titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
+* titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin
 
 Je recherche une **alternance Data Scientist / Data Analyst à partir de septembre 2026**.
 
@@ -183,26 +183,8 @@ Python
 
 ---
 
-## 📊 Dashboard KPI — SafeRoad Transport
 
-📌 Conception de dashboards de suivi des indicateurs clés de performance pour l’aide à la décision.
-
-### Technologies
-
-Power BI • Excel • SQL
-
-### Réalisations
-
-* Visualisation des KPI
-* Suivi quotidien des performances
-* Analyse des données transport
-* Reporting automatisé
-
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
-
----
-
-## 📈 Analyse de valeurs extrêmes (Projet de rechercher master 1 data science)
+## 📈 Analyse de valeurs extrêmes (Projet de recherche du master 1 data science)
 
 📌 Étude statistique des événements rares et extrêmes.
 
