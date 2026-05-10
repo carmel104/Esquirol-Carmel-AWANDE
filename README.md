@@ -119,7 +119,7 @@ Python • Scikit-Learn • Pandas • Matplotlib
 
 ## 🏠 Analyse des prix des maisons
 
-📌 Étude des déterminants des prix de vente des maisons à l’aide de modèles de régression.
+📌 Analyse des Déterminants du Prix Immobilier: approche par PCR et PLS
 
 ### Technologies
 
@@ -137,7 +137,7 @@ R • ggplot2 • Regression Models
 * Comparer les performances des modèles
 * Réduire la multicolinéarité
 
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
+🔗 Projet GitHub : [Analyse des prix des maisons](https://github.com/carmel104/Analyse-des-D-terminants-du-Prix-Immobilier-approche-par-PCR-et-PLS.git)
 
 ---
 
