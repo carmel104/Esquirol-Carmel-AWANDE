@@ -137,7 +137,7 @@ R • ggplot2 • Regression Models
 * Comparer les performances des modèles
 * Réduire la multicolinéarité
 
-🔗 Projet GitHub : [Analyse des prix des maisons](https://github.com/carmel104/Analyse-des-D-terminants-du-Prix-Immobilier-approche-par-PCR-et-PLS.git)
+🔗 Projet GitHub : [Veuillez cliquer ici pour plus de détails](https://github.com/carmel104/Analyse-des-D-terminants-du-Prix-Immobilier-approche-par-PCR-et-PLS.git)
 
 ---
 
