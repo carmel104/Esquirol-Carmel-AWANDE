@@ -128,7 +128,7 @@ Python • R • TensorFlow • Keras
 ### Modèles utilisés
 
 * ARIMA
-* LSTM
+* LSTM (Deep learning)
 
 ### Objectifs
 
