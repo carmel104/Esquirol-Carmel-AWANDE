@@ -217,7 +217,7 @@ R Studio
 * Estimation des risques
 * Analyse statistique avancée
 
-🔗 Projet GitHub : [Ajouter votre lien ici]()
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/Analyse-des-valeurs-extr-mes.git)
 
 
 # 📫 Me contacter
