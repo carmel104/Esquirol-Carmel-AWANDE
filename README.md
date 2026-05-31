@@ -182,7 +182,7 @@ Python • Scikit-Learn • Pandas • Matplotlib
 * Comparaison des performances des modèles
 * Analyse du déséquilibre de classes
 
-🔗 Projet GitHub : [Ajouter votre lien ici](https://github.com/carmel104/D-tection-de-fraudes.git)
+🔗 Projet GitHub : [Ajouter votre lien ici](https://github.com/carmel104/D-tection-de-fraudes-bancaires.git)
 
 ---
 
