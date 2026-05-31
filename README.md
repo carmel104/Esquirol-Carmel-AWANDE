@@ -166,11 +166,15 @@ Ce projet vise à concevoir un **outil d'aide à l'investigation numérique** à
 
 Python • Scikit-Learn • Pandas • Matplotlib
 
-### Modèles utilisés
-
+### Compétences mobilisées
+* Data preprocessing
+* Feature engineering
+* Data storytelling
+* Analyse exploraatoire de données
 * Régression Logistique
-* Random Forest
 * Arbre de Décision
+* Méthodes ensemblistes (Random Forest, AdaBoost)
+
 
 ### Résultats
 
@@ -178,7 +182,7 @@ Python • Scikit-Learn • Pandas • Matplotlib
 * Comparaison des performances des modèles
 * Analyse du déséquilibre de classes
 
-🔗 Projet GitHub : [Ajouter votre lien ici](#)
+🔗 Projet GitHub : [Ajouter votre lien ici](Veuillez cliquer ici pour accéder au projet sur GitHub)
 
 ---
 
