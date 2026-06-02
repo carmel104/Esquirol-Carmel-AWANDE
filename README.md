@@ -48,7 +48,7 @@ Mes domaines d’intérêt :
 
 📅 Mars 2025 – Juillet 2025
 
-* Conception de dashboards KPI
+* Conception de dashboards pour le suivi quotidien de KPI
 * Gestion de bases de données
 * Analyses statistiques pour l’aide à la décision
 
@@ -169,8 +169,8 @@ Python • Scikit-Learn • Pandas • Matplotlib
 ### Compétences mobilisées
 * Data preprocessing
 * Feature engineering
+* Analyse exploratoire de données
 * Data storytelling
-* Analyse exploraatoire de données
 * Régression Logistique
 * Arbre de Décision
 * Méthodes ensemblistes (Random Forest, AdaBoost)
