@@ -23,7 +23,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 Je suis:
 
-* actuellement en **Master 1 Data Science** à l’Université d’Angers; Angers
+* actuellement en **Master 1 Data Science** à l’Université d’Angers, Angers
 * titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
 * titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin
 
