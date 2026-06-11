@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist / Data Analyst / Statisticien
 
-🎓 Actuellement étudiant en Master 1 Data Science à l’Université d’Angers, passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
+🎓 Actuellement étudiant en Master 2 Traitement de l'Information et Data Science en Entreprise à l’Université de Paris 1 Panthéon Sorbonne passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
 
@@ -21,9 +21,10 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 # 🧠 À propos de moi
 
-Je suis:
+Mon parcous académique
 
-* actuellement en **Master 1 Data Science** à l’Université d’Angers, Angers
+* actuellement en **Master 2 Traitement de l'Information et Data Science en Entreprise ** à l’Université de Paris 1 Panthéon Sorbonne,Paris
+* **master 1 Data Science **à l'Université d'Angers, Angers
 * titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
 * titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin
 
