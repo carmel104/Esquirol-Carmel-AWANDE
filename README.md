@@ -23,12 +23,12 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 Mon parcous académique
 
-* en **Master 2 Traitement de l'Information et Data-science en Entreprise** à l’Université de Paris 1 Panthéon Sorbonne (à partir de septembre 2026), Paris  
-* **Master 1 Mathématiques et applications parcours Data science** à l'Université d'Angers, Angers
-* titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin
-* titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin
+* en **Master 2 Traitement de l'Information et Data-science en Entreprise** à l’Université de Paris 1 Panthéon Sorbonne (à partir de septembre 2026), 
+* **Master 1 Mathématiques et applications parcours Data science** à l'Université d'Angers,(Septembre 2025 à Mai 2026)
+* titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin (2018 à 2021)
+* titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin (2017 à 2017)
 
-Je recherche une **alternance Data Scientist / Data Analyst à partir de septembre 2026**.
+Je recherche un **contrat de professionalisation Data Scientist / Data Analyst à partir de septembre 2026**.
 
 Mes domaines d’intérêt :
 
