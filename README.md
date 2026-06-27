@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist / Data Analyst / Statisticien
 
-🎓 Etudiant en Master 2 Traitement de l'Information et Data Science en Entreprise à l’Université de Paris 1 Panthéon Sorbonne à partir de Septembre 2026 passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
+🎓 Etudiant en Master 2 Econométrie, Statistiques paarcours Traitement de l'Information et Data-science en Entreprise à l’Université Paris 1 Panthéon-Sorbonne à partir de Septembre 2026 passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
 
@@ -23,7 +23,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 Mon parcous académique
 
-* en **Master 2 Traitement de l'Information et Data-science en Entreprise** à l’Université de Paris 1 Panthéon Sorbonne (à partir de septembre 2026), 
+* en **Master 2 Econométrie Statistiques parcours Traitement de l'Information et Data-science en Entreprise** à l’Université Paris 1 Panthéon-Sorbonne (à partir de septembre 2026), 
 * **Master 1 Mathématiques et applications parcours Data science** à l'Université d'Angers,(Septembre 2025 à Mai 2026)
 * titulaire d’un **Master of Science en Statistique** de l'International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin (2018 à 2021)
 * titulaire d’une **Licence en Statistique** de l’Ecole Nationale d'Economie Appliquée et de Management, Bénin (2017 à 2017)
