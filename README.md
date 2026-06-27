@@ -21,8 +21,6 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 # 🧠 À propos de moi
 
-Mon parcous académique
-
 ## 🧠 Parcours Académique
 
 | 🎓 Diplômes | 🏛️ Établissements | 📅 Périodes |
