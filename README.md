@@ -25,7 +25,7 @@ Mon parcous académique
 
 ## 🧠 Parcours Académique
 
-| 🎓 Diplôme | 🏛️ Établissement | 📅 Période |
+| 🎓 Diplômes | 🏛️ Établissements | 📅 Périodes |
 |---|---|---|
 | Master 2 Économétrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise | Université Paris 1 Panthéon-Sorbonne | Septembre 2026 → ... |
 | Master 1 Mathématiques et applications parcours Data Science | Université d'Angers | Septembre 2025 → Mai 2026 |
