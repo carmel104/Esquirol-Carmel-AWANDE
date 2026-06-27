@@ -38,8 +38,9 @@ Mes domaines d’intérêt :
 * Séries temporelles
 * Modélisation statistique
 * Deep Learning
-* Data Engineering
+* Big Data
 * MLOps
+* Etc.
 
 ---
 
