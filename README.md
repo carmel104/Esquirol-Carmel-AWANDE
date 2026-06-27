@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist / Data Analyst / Statisticien
 
-🎓 Etudiant en Master 2 Econométrie, Statistiques paarcours Traitement de l'Information et Data-science en Entreprise à l’Université Paris 1 Panthéon-Sorbonne à partir de Septembre 2026 passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
+🎓 Etudiant en Master 2 Econométrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise à l’Université Paris 1 Panthéon-Sorbonne à partir de Septembre 2026 passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
 
