@@ -12,7 +12,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 ---
 
-📍 Basé à Angers, France  
+📍 Basé à Torcy, France  
 📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
 📞 Téléphone : +33 06 05 64 02 88  
 🔗 LinkedIn : [https://www.linkedin.com/in/carmel-awande-44b83626b/](https://www.linkedin.com/in/carmel-awande-44b83626b/)
@@ -27,7 +27,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 |---|---|---|
 | Master 2 Économétrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise | Université Paris 1 Panthéon-Sorbonne | Septembre 2026 → ... |
 | Master 1 Mathématiques et applications parcours Data Science | Université d'Angers | Septembre 2025 → Mai 2026 |
-| Master of Science en Statistique | Interntional Chair in Mathemaical Physics and Applications (ICMPA-UNESCO Chair), Bénin | 2018 → 2021 |
+| Master of Science en Statistique | International Chair in Mathemaical Physics and Applications (ICMPA-UNESCO Chair), Bénin | 2018 → 2021 |
 | Licence en Statistique | Ecole Nationale d'Economie Appliquée et de Managment (ENEAM), Bénin | 2017 |
 
 ---
@@ -65,7 +65,7 @@ Mes domaines d’intérêt :
 ### 🌐 Framework
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 📦 Librairies Python & R
+### 📦 Librairies 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
