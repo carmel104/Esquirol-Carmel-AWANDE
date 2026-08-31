@@ -2,7 +2,7 @@
 
 ## 🚀 Data Scientist / Data Analyst / Statisticien
 
-🎓 Etudiant en Master 2 Econométrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise à l’Université Paris 1 Panthéon-Sorbonne à partir de Septembre 2026 passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
+🎓 Etudiant en Master 2 Econométrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise à l’Université Paris 1 Panthéon-Sorbonne passionné par la statistique, le Machine Learning, l’analyse de données et la modélisation.
 
 Je possède un parcours solide en statistique appliquée ainsi qu’une expérience pratique en analyse de données, création de dashboards, modélisation prédictive et développement de projets Data Science.
 
@@ -25,14 +25,14 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 | 🎓 Diplômes | 🏛️ Établissements | 📅 Périodes |
 |---|---|---|
-| Master 2 Économétrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise (TIDE) | Université Paris 1 Panthéon-Sorbonne | Septembre 2026 → ... |
+| Master 2 Économétrie, Statistiques parcours Traitement de l'Information et Data-science en Entreprise (TIDE) | Université Paris 1 Panthéon-Sorbonne | Septembre 2026 → Octobre 2027 |
 | Master 1 Mathématiques et applications parcours Data Science | Université d'Angers | Septembre 2025 → Mai 2026 |
 | Master of Science en Statistique | International Chair in Mathematical Physics and Applications (ICMPA-UNESCO Chair), Bénin | 2018 → 2021 |
 | Licence en Statistique | Ecole Nationale d'Economie Appliquée et de Managment (ENEAM-UAC), Bénin | 2014-2017 |
 
 ---
 
-Je recherche un **contrat de professionalisation Data Scientist / Data Analyst à partir de septembre 2026**.
+Je recherche d'un ** d'un stage de 6 mois en tant que Data Scientist/ Data Analyst à partir d'Avril 2027**.
 
 Mes domaines d’intérêt :
 
