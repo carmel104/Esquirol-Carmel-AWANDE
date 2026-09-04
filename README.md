@@ -32,7 +32,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 
 ---
 
-Je recherche d'un ** d'un stage de 6 mois en tant que Data Scientist/ Data Analyst à partir d'Avril 2027**.
+Je recherche un stage de fin d'études d'une durée de 6 mois en tant que Data Scientist/ Data Analyst à partir d'Avril 2027.
 
 Mes domaines d’intérêt :
 
