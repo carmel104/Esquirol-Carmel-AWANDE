@@ -218,7 +218,24 @@ Python • Scikit-Learn • Pandas • Matplotlib
 🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/D-tection-de-fraudes-bancaires.git)
 
 ---
+##🎯 Score d’appétence bancaire — Machine Learning
 
+Développement d’un modèle de scoring d’appétence client permettant d'identifier les clients susceptibles de souscrire à un dépôt à terme.
+
+## Technologies : Python • Pandas • Scikit-learn • Matplotlib • Seaborn
+
+### Compétences mobilisées :
+
+* Prétraitement des variables numériques et catégorielles.
+* Construction de pipelines Scikit-learn.
+* Comparaison de plusieurs modèles de classification: régression logistique, arbre de décision, AdaBoost et Random Forest.
+*Analyse du déséquilibre de classes.
+* Évaluation avec Precision, Recall, F1-score, ROC-AUC et matrices de confusion.
+*Analyse du seuil de décision pour améliorer le ciblage commercial.
+
+🔗 Projet GitHub : [Veuillez cliquer ici pour accéder au projet sur GitHub](https://github.com/carmel104/Projet-de-data-science-score-d-app-tence.git)
+
+---
 
 ## 🌊 Deep Sea Adventure — Programmation Orientée Objet
 
