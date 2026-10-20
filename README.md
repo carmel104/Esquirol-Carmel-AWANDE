@@ -280,7 +280,7 @@ R Studio
 # 📫 Me contacter
 
 📧 Email : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
-🔗 LinkedIn : [https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/?isSelfProfile=true]( esquirol-carmel-awande )
+🔗 LinkedIn : [[https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/?isSelfProfile=true](https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b)]( esquirol-carmel-awande )
 
 ---
 
