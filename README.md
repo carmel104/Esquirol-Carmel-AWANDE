@@ -15,7 +15,7 @@ Construire des solutions data intelligentes permettant d’aider à la prise de 
 📍 Basé à Torcy, France  
 📧 Contact : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
 📞 Téléphone : +33 06 05 64 02 88  
-🔗 LinkedIn : [[https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/?isSelfProfile=true]([https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b)](https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/)]( esquirol-carmel-awande )
+🔗 LinkedIn : [Esquirol Carmel AWANDE](https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/)
 
 ---
 
@@ -280,8 +280,7 @@ R Studio
 # 📫 Me contacter
 
 📧 Email : [cawande29@gmail.com](mailto:cawande29@gmail.com)  
-🔗 LinkedIn : [[https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/?isSelfProfile=true]([https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b)](https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/)]( esquirol-carmel-awande )
-
+🔗 LinkedIn : [Esquirol Carmel AWANDE](https://www.linkedin.com/in/esquirol-carmel-awande-44b83626b/)
 ---
 
 ⭐ N’hésitez pas à explorer mes projets et à me contacter pour échanger autour de la Data Science, du Machine Learning et de l’analyse de données.
